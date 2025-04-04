@@ -1,23 +1,22 @@
-### Hi there, I'm Ali Haidar! 👋
+### Hi there, I'm Muhammad Muneeb! 👋
 
-![Ali Haidar]([https://imgur.com/gallery/github-image-aB5xzJ4])
+![Muhammad Muneeb]
 
-🚀 **Full-Stack Developer | Ruby on Rails | React | PostgreSQL | Node Js | AWS**
+🚀 **Full-Stack Developer | PHP and Laravel | OOP | SQL | Basic React | 
 
-I'm a passionate **full-stack software engineer** specializing in building scalable web applications with **Ruby on Rails, React, and PostgreSQL**. I love solving complex problems, optimizing performance, and continuously learning new technologies.
+I'm a passionate **full-stack software engineer** specializing in building scalable web applications with **PHP and Laravel, Basic React, and PostgreSQL**. I love solving complex problems, optimizing performance, and continuously learning new technologies.
 
 ---
 
 ### 🔧 **Tech Stack & Tools**
-- **Frontend:** React, JavaScript (ES6+), TypeScript, Redux
-- **Backend:** Ruby on Rails, Node.js, Express
-- **Database:** PostgreSQL, MySQL, Redis
-- **DevOps & Cloud:** AWS (EC2, S3, RDS), Docker, CI/CD
-- **Testing:** RSpec, Jest
-- **Others:** Git, WebSockets, GraphQL, REST APIs
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind
+- **Backend:** Laravel
+- **Database:** PostgreSQL, MySQL
+- **Testing:** Jest
+- **Others:** Git
 
 ---
-
+  
 ### 📈 **GitHub Stats**
 ![GitHub Streak](https://streak-stats.demolab.com?user=AliHaidar322&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaidar322&layout=compact&theme=tokyonight)
@@ -25,8 +24,8 @@ I'm a passionate **full-stack software engineer** specializing in building scala
 ---
 
 ### 📫 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-haidar-453ba0267) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/AliHaidar322)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-muneeb-0baa8930a) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/muhammad-muneebazhar)
 
 💡 Always eager to collaborate on exciting projects and explore new opportunities!
 
