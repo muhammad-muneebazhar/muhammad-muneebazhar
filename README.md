@@ -18,7 +18,7 @@ I'm a passionate **full-stack software engineer** specializing in building scala
 ---
   
 ### 📈 **GitHub Stats**
-![GitHub Streak](https://streak-stats.demolab.com?user=muhammad-muneebazhar&theme=tokyonight&hide_border=true)
+###![GitHub Streak](https://streak-stats.demolab.com?user=muhammad-muneebazhar&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-muneebazhar&layout=compact&theme=tokyonight)
 
 ---
